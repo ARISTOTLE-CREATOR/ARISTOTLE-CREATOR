@@ -13,7 +13,7 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 - 🌱 I'm **R_Sai Nithin**, an Independent Developer and CS Student
 - 💡 Interested in coding, project development, teamwork, and exploring modern technologies to build impactful experiences
@@ -24,7 +24,7 @@
 
 <br>
 
-## 🖥️ System Status
+## Status
 
 <div align="center">
 
@@ -41,7 +41,7 @@
 
 <br>
 
-## 📊 GitHub Activity
+## Activity
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 
 <br>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
