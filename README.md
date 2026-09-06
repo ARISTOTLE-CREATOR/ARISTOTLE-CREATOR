@@ -66,11 +66,6 @@
 <img src="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-snake.svg" alt="snake contribution graph" width="100%"/>
 <!--END_SECTION:waka-->
 
-</div>
-
-<sub>⚠️ This animates automatically once you enable the free `snk` GitHub Action on your profile repo — I can walk you through the 2-minute setup if you want it live.</sub>
-
-<br>
 
 ## 💬 Developer Quote
 
