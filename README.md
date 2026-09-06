@@ -63,7 +63,7 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-contribution-grid-snake.svg" alt="snake contribution graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-snake.svg" alt="snake contribution graph" width="100%"/>
 <!--END_SECTION:waka-->
 
 </div>
