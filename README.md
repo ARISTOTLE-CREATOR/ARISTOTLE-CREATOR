@@ -80,6 +80,14 @@ I'm **Sai Nithin**, a Computer Science student and independent developer based i
 
 </div>
 
+## The Commit Trail
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-snake.svg" alt="Contribution Snake" width="100%"/>
+
+</div>
+
 <br>
 
 ## Thoughts & Ideas
@@ -91,7 +99,6 @@ I'm **Sai Nithin**, a Computer Science student and independent developer based i
 </div>
 
 <br>
-
 ## Find Me Here
 
 <div align="center">
