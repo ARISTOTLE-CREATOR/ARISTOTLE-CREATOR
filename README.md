@@ -1,117 +1,176 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=R_SAI%20NITHIN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Sai%20Nithin&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final-Year%20CS%20Student%20%C2%B7%20Full-Stack%20Developer&descAlignY=60&descSize=20" width="100%" alt="Sai Nithin - Final-Year CS Student and Full-Stack Developer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learning%2C+Building%2C+Growing;Exploring+Modern+Software+%26+Web+Technologies;Turning+Ideas+Into+Working+Systems;Building+in+Public%2C+One+Commit+at+a+Time;Fascinated+by+Anything+That+Flies" alt="Typing SVG" />
+<a href="https://github.com/ARISTOTLE-CREATOR">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+full-stack+products+in+TypeScript+%26+React;Healthcare+tech+%C2%B7+AI+interfaces+%C2%B7+News+platforms;I+ship+projects%2C+not+just+tutorials;Open+to+Software+Engineer+roles+%F0%9F%9A%80" alt="Typing animation: I build full-stack products in TypeScript and React" />
+</a>
+
+<br><br>
+
+![Open to work](https://img.shields.io/badge/OPEN%20TO%20WORK-Full--Time%20%C2%B7%20Internships-2ea44f?style=for-the-badge)
+![Location](https://img.shields.io/badge/BASE-Telangana%2C%20India-1f6feb?style=for-the-badge)
 
 <br>
 
-![Status](https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=flat-square)
-![Location](https://img.shields.io/badge/BASE-Telangana%2C%20India-blue?style=flat-square)
-![Open to](https://img.shields.io/badge/OPEN%20TO-Collaboration-orange?style=flat-square)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-vert-six-94.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-Download-c0392b?style=for-the-badge&logo=readme&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rapolu-sai-nithin)
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainithin172005@gmail.com)
 
 </div>
 
 <br>
 
-## About Me
+## 👋 Hi, I'm Sai
 
-I'm **Sai Nithin**, a Computer Science student and independent developer based in Telangana, India. I like taking things apart — literally and figuratively — to understand how they work, then rebuilding them better.
+I'm a **final-year Computer Science student** who learns by building. I take things apart to understand how they work, then rebuild them better. My projects are live, deployed, and used to practice what companies actually ship: clean UIs, real deployments, and thoughtful product decisions.
 
-```
-🔭 Currently building:  Full-stack platforms — healthcare tech, AI interfaces, news aggregation
-🌱 Currently exploring: Accessibility-focused frontend design & production-ready AI workflows
-💬 Ask me about:        TypeScript, React, and turning rough prototypes into real products
-📫 Reach me:            sainithin172005@gmail.com
-```
-
-**My approach:** `build → break → understand → improve`
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech, Computer Science, YOUR_COLLEGE (Class of YOUR_GRAD_YEAR) |
+| 💼 **Looking for** | Software Engineer / Full-Stack / Frontend roles (full-time & internships) |
+| 🔭 **Building** | Healthcare tech, AI interfaces, and a live news aggregation platform |
+| 🌱 **Exploring** | Accessibility-first frontend design and production-ready AI workflows |
+| 💬 **Ask me about** | TypeScript, React, and turning rough prototypes into real products |
+| ⚡ **My loop** | `build → break → understand → improve` |
 
 <br>
 
-## Tech Stack
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 [ARISTOTLE-CURA](https://github.com/ARISTOTLE-CREATOR/ARISTOTLE-CURA)
+**One platform for patients, doctors, hospitals, and emergency services.**
+
+A full-stack healthcare ecosystem that brings the people involved in care into a single connected system instead of scattered tools.
+
+<!-- TODO: add 1 line on YOUR part + a result. e.g. "Built role-based dashboards and the emergency request flow." -->
+
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,vercel" alt="TypeScript, React, Node.js, Vercel"/>
+
+[**Live Demo →**](https://aristotle-cura.vercel.app/) · [Source](https://github.com/ARISTOTLE-CREATOR/ARISTOTLE-CURA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [AURA](https://github.com/ARISTOTLE-CREATOR/AURA)
+**An AI communication platform, designed accessibility-first.**
+
+A frontend prototype exploring what an AI communication interface looks like when accessibility is a design constraint from day one, not an afterthought.
+
+<!-- TODO: mention 1-2 concrete a11y choices, e.g. keyboard navigation, contrast, ARIA labels. -->
+
+<img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,vercel" alt="TypeScript, React, Tailwind, Vite, Vercel"/>
+
+[**Live Demo →**](https://aura-five-theta.vercel.app/) · [Source](https://github.com/ARISTOTLE-CREATOR/AURA)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [LUMINOUS](https://github.com/ARISTOTLE-CREATOR/LUMINOUS)
+**An open academic hub for engineering students.**
+
+Semester-wise study materials, notes, and learning resources in one place, so students spend time learning instead of searching.
+
+<!-- TODO: add usage number if you have it, e.g. "Used by N classmates". -->
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github" alt="HTML, CSS, JavaScript, GitHub Pages"/>
+
+[**Live Demo →**](https://aristotle-creator.github.io/LUMINOUS/) · [Source](https://github.com/ARISTOTLE-CREATOR/LUMINOUS)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [MY-PORTFOLIO](https://github.com/ARISTOTLE-CREATOR/MY-PORTFOLIO)
+**My software engineering portfolio.**
+
+A modern portfolio that showcases real-world products and technical projects, with deeper write-ups than a README allows.
+
+<img src="https://skillicons.dev/icons?i=ts,react,tailwind,vite,vercel" alt="TypeScript, React, Tailwind, Vite, Vercel"/>
+
+[**Live Site →**](https://my-portfolio-vert-six-94.vercel.app/) · [Source](https://github.com/ARISTOTLE-CREATOR/MY-PORTFOLIO)
+
+</td>
+</tr>
+</table>
+
+**🚧 In progress:** [V.I.R.U.S](https://github.com/ARISTOTLE-CREATOR/V.I.R.U.S), a global live news aggregation platform (deployment coming soon).
+
+**🤝 Community:** contributor to [prompt-to-production](https://github.com/nasscomAI/prompt-to-production), nasscomAI's scaffolding for vibe sessions.
+
+<br>
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nodejs,tailwind,vite,git,github,githubactions,vercel,vscode&theme=dark&perline=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nodejs,tailwind,vite,git,github,githubactions,vercel,vscode&theme=light&perline=7">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,react,nodejs,tailwind,vite,git,github,githubactions,vercel,vscode&perline=7" alt="TypeScript, JavaScript, Python, HTML, CSS, React, Node.js, Tailwind, Vite, Git, GitHub, GitHub Actions, Vercel, VS Code"/>
+</picture>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Web & Frameworks**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+<!-- TODO: add the backend/database tools you actually use by appending ids to the lists above, e.g. express,postgres,mongodb,supabase,firebase,docker -->
 
 </div>
 
 <br>
 
-## Featured Projects
-
-| Project | What it is | Stack | Live |
-|---|---|---|---|
-| **[ARISTOTLE-CURA](https://github.com/ARISTOTLE-CREATOR/ARISTOTLE-CURA)** | A full-stack healthcare ecosystem connecting patients, doctors, hospitals, and emergency services in one unified platform | TypeScript | [Demo](https://aristotle-cura.vercel.app/) |
-| **[prompt-to-production](https://github.com/nasscomAI/prompt-to-production)** ⭐ 149 · 🍴 3k | nasscom scaffoldings for vibe sessions — built with the nasscomAI org | Python | — |
-| **[AURA](https://github.com/ARISTOTLE-CREATOR/AURA)** | Frontend-only prototype of an AI communication platform with a modern, accessibility-focused design | TypeScript | [Demo](https://aura-five-theta.vercel.app/) |
-| **[V.I.R.U.S](https://github.com/ARISTOTLE-CREATOR/V.I.R.U.S)** | A global live news aggregation platform | CSS | *not deployed yet* |
-| **[LUMINOUS](https://github.com/ARISTOTLE-CREATOR/LUMINOUS)** | An open academic resource hub for engineering students — semester-wise study materials, notes, and learning resources | CSS | [Demo](https://aristotle-creator.github.io/LUMINOUS/) |
-| **[MY-PORTFOLIO](https://github.com/ARISTOTLE-CREATOR/MY-PORTFOLIO)** | A modern software engineering portfolio showcasing real-world products and technical projects | TypeScript | [Demo](https://my-portfolio-vert-six-94.vercel.app/) |
-
-<br>
-
-## GitHub Activity
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARISTOTLE-CREATOR&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARISTOTLE-CREATOR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARISTOTLE-CREATOR&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-</div>
+<!-- If these cards ever show an error, the public stats server is rate-limited. Just delete these two lines; nothing else depends on them. -->
 
-## The Commit Trail
+<br><br>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-snake.svg" alt="Contribution Snake" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-snake.svg">
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
 <br>
 
-## Thoughts & Ideas
+## 🧭 How I Work
 
-<div align="center">
-
-> *"Curiosity starts the idea. Engineering makes it real."*
-
-</div>
+- **Ship early, then iterate.** Every project above is deployed, because a live link teaches more than a local build.
+- **Accessibility is part of "done."** Keyboard, contrast, and semantics get built in, not bolted on.
+- **Read the source.** When something breaks, I open it up and find out why before I patch it.
+- **Prototype to product.** I care about the boring parts too: structure, naming, deployment, docs.
 
 <br>
-## Find Me Here
+
+## 🎯 What I'm Looking For
+
+I'm graduating soon and looking for a team where I can **learn fast, ship real features, and take ownership**. I'm most excited by full-stack and frontend work in **healthcare, AI products, and developer tools**.
+
+If that sounds like your team, [email me](mailto:sainithin172005@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/rapolu-sai-nithin). I usually reply quickly.
+
+<br>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainithin172005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARISTOTLE-CREATOR)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rapolu-sai-nithin)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainithin172005@gmail.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/Bug-To-Feature/)
-
-</div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer&text=Still%20compiling...&fontSize=20&fontColor=ffffff&animation=fadeIn" width="100%"/>
+*"Curiosity starts the idea. Engineering makes it real."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" alt=""/>
+
 </div>
