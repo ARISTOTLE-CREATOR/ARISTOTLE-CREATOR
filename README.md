@@ -142,10 +142,30 @@ flowchart LR
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg">
+  <img src="./profile-3d-contrib/profile-green.svg" alt="3D view of my GitHub contributions over the last year" width="100%"/>
+</picture>
+
+<br>
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=ARISTOTLE-CREATOR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARISTOTLE-CREATOR&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-<!-- If these cards show an error, the public stats server is rate-limited. Delete this whole section; nothing else depends on it. -->
+<!-- The 3D graph needs the profile-3d.yml workflow to run once. The two stats cards come from a public server that is sometimes rate-limited; delete those two lines if they ever show an error. -->
+
+</div>
+
+<br>
+
+## Beyond the Code
+
+<div align="center">
+
+<img src="./assets/contra_wide_animated.gif" alt="Retro side-scrolling game footage" width="100%"/>
+
+<!-- TODO: add one personal line here, e.g. what you play, build, or do outside coding. -->
 
 </div>
 
