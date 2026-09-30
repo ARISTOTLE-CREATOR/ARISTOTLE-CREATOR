@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Sai%20Nithin&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20Final-Year%20CS%20Student&descAlignY=62&descSize=18" width="100%" alt="Sai Nithin - Full-Stack Developer and final-year CS student"/>
 
+<img src="./assets/contra_wide_animated.gif" alt="Retro side-scrolling game footage" width="100%"/>
+
+<br><br>
+
 **I build full-stack products in TypeScript and React, from first prototype to live deployment.**
 
 Currently open to **Software Engineer** and **Full-Stack / Frontend** roles, full-time and internships.
@@ -159,47 +163,6 @@ flowchart LR
 
 <br>
 
-## Beyond the Code
-
-<div align="center">
-
-<img src="./assets/contra_wide_animated.gif" alt="Retro side-scrolling game footage" width="100%"/>
-
-<!-- TODO: add one personal line here, e.g. what you play, build, or do outside coding. -->
-
-</div>
-
-<br>
-
-
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"   # daily
-  workflow_dispatch:        # lets you run it manually from the Actions tab
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "chore: update 3D contribution graph" || exit 0
-          git push
-
 ## Let's Talk
 
 I'm looking for a team where I can learn fast, ship real features, and take ownership, especially in healthcare, AI products, and developer tools.
@@ -211,5 +174,9 @@ I'm looking for a team where I can learn fast, ship real features, and take owne
 <br>
 
 *"Curiosity starts the idea. Engineering makes it real."*
+
+<br>
+
+<img src="https://raw.githubusercontent.com/ARISTOTLE-CREATOR/ARISTOTLE-CREATOR/output/github-snake.svg" alt="Snake animation eating my GitHub contribution graph" width="100%"/>
 
 </div>
